@@ -9,4 +9,8 @@
   - Scikit-Learn
 - **1.3 Polynomial Linear Regression**
   - Scikit-Learn
+- **1.4 Lasso Regression (L1 Regularization)**
+  - Scikit-Learn
+- **1.5 Ridge Regression (L2 Regularization)**
+  - Scikit-Learn
 ### 2. Logistic Regression
