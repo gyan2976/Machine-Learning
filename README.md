@@ -11,7 +11,7 @@ Here you will find all the methods implemented of all different Machine Learning
 - **2.4 Lasso Regression (L1 Regularization)**
   - Scikit-Learn + Scikit-Learn (Visualization)
 - **2.5 Ridge Regression (L2 Regularization)**
-  - Scikit-Learn
+  - Scikit-Learn + Scikit-Learn (Visualization) + Scratch + Scratch (Slope & Intercept) + Gradient Descent
 - **2.6 ElasticNet Regression (Lasso Regression + Ridge Regression)**
   - Scikit-Learn
 ### 3. Logistic Regression
