@@ -1,5 +1,4 @@
 # Machine-Learning
-Here you will find all the methods implemented of all different Machine Learning models.
 ### 1. Data Preprocessing
 ### 2. Linear Regression
 - **2.1 Simple Linear Regression**
