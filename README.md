@@ -14,7 +14,9 @@
 - **2.6 ElasticNet Regression (Lasso Regression + Ridge Regression)**
   - Scikit-Learn
 ### 3. Logistic Regression
-- **2.1 Simple Logistic Regression**
-  - Scikit-Learn + Scratch
-- **2.2 Polynomial Logistic Regression**
+- **2.1 Perceptron Trick**
+  - Step Function + Sigmoid
+- **2.2 Simple Logistic Regression**
+  - Scikit-Learn + Scratch + Gradient Descent
+- **2.3 Polynomial Logistic Regression**
   - Scikit-Learn
