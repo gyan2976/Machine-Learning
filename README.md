@@ -20,3 +20,10 @@
   - Scikit-Learn + Scratch + Gradient Descent
 - **2.3 Polynomial Logistic Regression**
   - Scikit-Learn
+### 3. Decision Tree & Random Forest
+- **2.1 Decision Tree**
+  - Regression (Sklearn) + Classification (Sklearn)
+- **2.2 Random Forest**
+  - Regression (Sklearn) + Classification (Sklearn)
+- **2.2 Bagging & Boosting**
+  - 
