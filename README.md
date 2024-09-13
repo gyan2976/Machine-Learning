@@ -14,16 +14,16 @@
 - **2.6 ElasticNet Regression (Lasso Regression + Ridge Regression)**
   - Scikit-Learn
 ### 3. Logistic Regression
-- **2.1 Perceptron Trick**
+- **3.1 Perceptron Trick**
   - Step Function + Sigmoid
-- **2.2 Simple Logistic Regression**
+- **3.2 Simple Logistic Regression**
   - Scikit-Learn + Scratch + Gradient Descent
-- **2.3 Polynomial Logistic Regression**
+- **3.3 Polynomial Logistic Regression**
   - Scikit-Learn
 ### 4. Decision Tree & Random Forest
-- **2.1 Decision Tree**
+- **4.1 Decision Tree**
   - Regression (Sklearn) + Classification (Sklearn)
-- **2.2 Bagging - Random Forest**
+- **4.2 Bagging - Random Forest**
   - Regression (Sklearn) + Classification (Sklearn)
-- **2.3 Boosting**
+- **4.3 Boosting**
   - AdaBoost, Gradient Boosting Machine (GBM), XGBoost, LightGBM, CatBoost
