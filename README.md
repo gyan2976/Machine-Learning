@@ -23,7 +23,7 @@
 ### 4. Decision Tree & Random Forest
 - **4.1 Decision Tree**
   - Regression (Sklearn) + Classification (Sklearn)
-- **4.2 Bagging - Random Forest**
-  - Regression (Sklearn) + Classification (Sklearn)
+- **4.2 Random Forest (Bagging)**
+  - Regression (Sklearn) + Classification (Sklearn) + Classification (Scratch) + Classification (Visualization)
 - **4.3 Boosting**
   - AdaBoost, Gradient Boosting Machine (GBM), XGBoost, LightGBM, CatBoost
