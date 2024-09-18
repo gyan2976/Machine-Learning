@@ -28,4 +28,7 @@
 - **4.3 Boosting**
   - AdaBoost
     -  AdaBoost - Decision Tree (Scratch) + AdaBoost (GridSearchCV) + AdaBoost (RandomSearchCV)
-  - Gradient Boosting Machine (GBM), XGBoost, LightGBM, CatBoost
+  - Gradient Boosting Machine (GBM)
+  -  XGBoost
+  -  LightGBM
+  -  CatBoost
