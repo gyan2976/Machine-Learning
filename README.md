@@ -26,4 +26,6 @@
 - **4.2 Random Forest (Bagging)**
   - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch) + Classification (Visualization)
 - **4.3 Boosting**
-  - AdaBoost, Gradient Boosting Machine (GBM), XGBoost, LightGBM, CatBoost
+  - AdaBoost
+    -  AdaBoost - Decision Tree (Scratch) + AdaBoost (GridSearchCV) + AdaBoost (RandomSearchCV)
+  - Gradient Boosting Machine (GBM), XGBoost, LightGBM, CatBoost
