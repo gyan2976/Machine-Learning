@@ -22,7 +22,7 @@
   - Scikit-Learn
 ### 4. Decision Tree & Random Forest
 - **4.1 Decision Tree**
-  - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scikit-Learn) + Classification (Scratch)
+  - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch)
 - **4.2 Random Forest (Bagging)**
   - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch) + Classification (Visualization)
 - **4.3 Boosting**
