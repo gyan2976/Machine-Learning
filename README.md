@@ -32,3 +32,7 @@
   -  XGBoost
   -  LightGBM
   -  CatBoost
+- **4.4 Stacking & Blending**
+  - Stacking
+  - Blending
+  - Stacking & Blending
