@@ -1,5 +1,23 @@
 # Machine-Learning
 ### 1. Data Preprocessing
+- **1.1 Data Aquasition**
+  - Web APIs + Web Crawling + Web Scraping
+- **1.2 Missing Values**
+  - Numerical, Categorical, Indicator, KNN Imputer, MICE
+- **1.3 Feature Scaling**
+  - Normalization + Standardization
+- **1.4 Feature Encoding**
+- **1.5 Feature Transformation**
+- **1.6 Pipelines**
+- **1.7 Date and Time**
+- **1.8 Outliers**
+- **1.9 Feature Construction**
+- **1.10 Feature Selection**
+- **1.11 Cross Validation**
+- **1.12 Modelling (Stacking and Blending)**
+- **1.13 Model Tuning**
+- **1.14 Handling Imbalanced Dataset**
+  - SMOTE
 ### 2. Linear Regression
 - **2.1 Simple Linear Regression**
   - Scikit-Learn + Scratch + Vectorized + Gradient Descent
