@@ -36,3 +36,7 @@
   - Stacking
   - Blending
   - Stacking & Blending
+### 5. K-Nearest Neighbor (K-NN)
+### 6. Support Vector Machine (SVM)
+### 7. K-means Clustering
+### 8. Naive Bayes
