@@ -7,15 +7,25 @@
 - **1.3 Feature Scaling**
   - Normalization + Standardization
 - **1.4 Feature Encoding**
+  - Ordinal Encoding and Label Encoding + One Hot Encoding + Encoding high cardinality categorical features + Feature Hashing
 - **1.5 Feature Transformation**
+  - Log Transform + Box Cox Transform + Yeo Johnson Transform + Discretization
 - **1.6 Pipelines**
-- **1.7 Date and Time**
+  - Column Transformer + Scikit-Learn Pipelines
+- **1.7 Time and Date**
+  - Time and Date
 - **1.8 Outliers**
+  - Detection and Removal using Z-score + Detection and Removal using IQR method + Percentile Method
 - **1.9 Feature Construction**
+  - Feature Construction
 - **1.10 Feature Selection**
+  - SelectKBest and Recursive Feature Elimination + Chi-squared Feature Selection + Backward Feature Elimination + Dropping features using Pearson correlation coefficient + Feature importance using Random Forest
 - **1.11 Cross Validation**
+  - Holdout Method + K-Fold Cross Validation + Leave one out Cross Validation + Time Series Cross Validation
 - **1.12 Modelling (Stacking and Blending)**
+  - Stacking + Blending + LightGBM + CatBoost
 - **1.13 Model Tuning**
+  - GridSearchCV + RandomSearchCV + Hyperparameter Tuning
 - **1.14 Handling Imbalanced Dataset**
   - SMOTE
 ### 2. Linear Regression
