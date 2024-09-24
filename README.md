@@ -56,10 +56,10 @@
 - **4.3 Boosting**
   - AdaBoost
     -  AdaBoost - Decision Tree (Scratch) + AdaBoost (GridSearchCV) + AdaBoost (RandomSearchCV)
-  - Gradient Boosting Machine (GBM)
-  -  XGBoost
-  -  LightGBM
-  -  CatBoost
+  - Gradient Boosting Machine (GBM) (Pending ...!!!)
+  -  XGBoost (Pending ...!!!)
+  -  LightGBM (Pending ...!!!)
+  -  CatBoost (Pending ...!!!)
 - **4.4 Stacking & Blending**
   - Stacking
   - Blending
