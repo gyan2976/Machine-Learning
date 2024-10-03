@@ -52,7 +52,7 @@
 - **4.1 Decision Tree**
   - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch)
 - **4.2 Random Forest (Bagging)**
-  - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch) + Classification (Visualization)
+  - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch)
 - **4.3 Boosting**
   - AdaBoost
     -  AdaBoost - Decision Tree (Scratch) + AdaBoost (GridSearchCV) + AdaBoost (RandomSearchCV)
