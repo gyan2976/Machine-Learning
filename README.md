@@ -65,6 +65,7 @@
   - Blending
   - Stacking & Blending
 ### 5. K-Nearest Neighbor (K-NN)
+  - Classification (Sklearn) + Regression (Sklearn) + Classification (Scratch) + Regression (Scratch)
 ### 6. Support Vector Machine (SVM)
 ### 7. K-means Clustering
 ### 8. Naive Bayes
