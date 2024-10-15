@@ -30,7 +30,7 @@
   - SMOTE
 ### 2. Linear Regression
 - **2.1 Simple Linear Regression**
-  - Scikit-Learn + Scratch + Vectorized + Gradient Descent + OLS (Ordinary Least Squares)
+  - Scikit-Learn + Scratch (OLS - Ordinary Least Squares) + Scratch (Gradient Descent)
 - **2.2 Multiple Linear Regression**
   - Scikit-Learn + Scratch + Backward Elimination
 - **2.3 Polynomial Linear Regression**
