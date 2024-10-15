@@ -75,7 +75,7 @@
 - **6.2 Classification**
   - Classification (Sklearn) + Classification (Scratch) 
 ### 7. K-means Clustering
-- **7.1 RClustering**
+- **7.1 Clustering**
   - Clustering (Sklearn) + Clustering (Scratch)
 ### 8. Naive Bayes
 - **8.1 Classification**
