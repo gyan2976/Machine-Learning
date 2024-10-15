@@ -30,7 +30,7 @@
   - SMOTE
 ### 2. Linear Regression
 - **2.1 Simple Linear Regression**
-  - Scikit-Learn + Scratch + Vectorized + Gradient Descent
+  - Scikit-Learn + Scratch + Vectorized + Gradient Descent + OLS (Ordinary Least Squares)
 - **2.2 Multiple Linear Regression**
   - Scikit-Learn + Scratch + Backward Elimination
 - **2.3 Polynomial Linear Regression**
@@ -65,10 +65,18 @@
   - Blending
   - Stacking & Blending
 ### 5. K-Nearest Neighbor (K-NN)
-  - Classification (Sklearn) + Regression (Sklearn) + Classification (Scratch) + Regression (Scratch)
+- **5.1 Regression**
+  - Regression (Sklearn) + Regression (Scratch)
+- **5.2 Classification**
+  - Classification (Sklearn) + Classification (Scratch) 
 ### 6. Support Vector Machine (SVM)
-  - Classification (Sklearn) + Regression (Sklearn) + Classification (Scratch) + Regression (Scratch)
+- **6.1 Regression**
+  - Regression (Sklearn) + Regression (Scratch)
+- **6.2 Classification**
+  - Classification (Sklearn) + Classification (Scratch) 
 ### 7. K-means Clustering
+- **7.1 RClustering**
   - Clustering (Sklearn) + Clustering (Scratch)
 ### 8. Naive Bayes
-  - Classification (Sklearn) + Classification (Scratch)
+- **8.1 Classification**
+  - Classification (Sklearn) + Classification (Scratch) 
