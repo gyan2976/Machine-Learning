@@ -67,5 +67,8 @@
 ### 5. K-Nearest Neighbor (K-NN)
   - Classification (Sklearn) + Regression (Sklearn) + Classification (Scratch) + Regression (Scratch)
 ### 6. Support Vector Machine (SVM)
+  - Classification (Sklearn) + Regression (Sklearn) + Classification (Scratch) + Regression (Scratch)
 ### 7. K-means Clustering
+  - Clustering (Sklearn) + Clustering (Scratch)
 ### 8. Naive Bayes
+  - Classification (Sklearn) + Classification (Scratch)
