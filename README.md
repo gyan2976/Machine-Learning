@@ -50,15 +50,15 @@
   - Scikit-Learn
 ### 4. Decision Tree & Random Forest
 - **4.1 Decision Tree**
-  - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Classification (Scratch)
+  - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch)
 - **4.2 Random Forest (Bagging)**
-  - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Classification (Scratch)
+  - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch)
 - **4.3 Boosting**
   - AdaBoost
+  - XGBoost
+  - LightGBM
+  - CatBoost
   - Gradient Boosting Machine (GBM)
-  -  XGBoost
-  -  LightGBM
-  -  CatBoost
 - **4.4 Stacking & Blending**
   - Stacking
   - Blending
