@@ -55,7 +55,7 @@
   - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch)
 - **4.3 Boosting**
   - AdaBoost
-    - Scikit-Learn, Decision Trees (Regression + Classification)
+    - Scikit-Learn (All Estimator) + AdaBoost Decision Trees (Regression + Classification) + AdaBoost Random Forest (Regression + Classification)
   - XGBoost
   - LightGBM
   - CatBoost
