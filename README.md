@@ -55,11 +55,11 @@
   - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch)
 - **4.3 Boosting**
   - AdaBoost
-    -  AdaBoost - Decision Tree (Scratch) + AdaBoost (GridSearchCV) + AdaBoost (RandomSearchCV)
-  - Gradient Boosting Machine (GBM) (Pending ...!!!)
-  -  XGBoost (Pending ...!!!)
-  -  LightGBM (Pending ...!!!)
-  -  CatBoost (Pending ...!!!)
+    -  Decision Tree (Scratch) + AdaBoost (GridSearchCV) + AdaBoost (RandomSearchCV)
+  - Gradient Boosting Machine (GBM)
+  -  XGBoost
+  -  LightGBM
+  -  CatBoost
 - **4.4 Stacking & Blending**
   - Stacking
   - Blending
