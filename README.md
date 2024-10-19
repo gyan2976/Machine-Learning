@@ -55,15 +55,14 @@
   - Regression (Scikit-Learn) + Classification (Scikit-Learn) + Regression (Scratch) + Classification (Scratch)
 - **4.3 Boosting**
   - AdaBoost
-    - Scikit-Learn (All Estimator) + AdaBoost Decision Trees (Regression + Classification) + AdaBoost Random Forest (Regression + Classification)
+    - AdaBoost Decision Tree (Regression + Classification) + AdaBoost Random Forest (Regression + Classification)
   - XGBoost
+    - XgBoost Decision Tree (Regression + Classification) + XgBoost Random Forest (Regression + Classification)
   - LightGBM
   - CatBoost
   - Gradient Boosting Machine (GBM)
 - **4.4 Stacking & Blending**
-  - Stacking
-  - Blending
-  - Stacking & Blending
+  - Stacking + Stacking (AdaBoost) + Stacking (XgBoost) + Blending + Stacking & Blending
 ### 5. K-Nearest Neighbor (K-NN)
 - **5.1 Regression**
   - Regression (Sklearn) + Regression (Scratch)
