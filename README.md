@@ -62,7 +62,11 @@
   - CatBoost
   - Gradient Boosting Machine (GBM)
 - **4.4 Stacking & Blending**
-  - Stacking + Stacking (AdaBoost) + Stacking (XgBoost) + Blending + Stacking & Blending
+  - Stacking
+    - Stacking AdaBoost (Classification + Regression) + Stacking XgBoost (Classification + Regression)
+  - Blending
+    - Blending AdaBoost (Classification + Regression) + Blending XgBoost (Classification + Regression)
+  - Stacking & Blending
 ### 5. K-Nearest Neighbor (K-NN)
 - **5.1 Regression**
   - Regression (Sklearn) + Regression (Scratch)
