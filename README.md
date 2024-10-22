@@ -67,6 +67,7 @@
   - Blending
     - Blending AdaBoost (Classification + Regression) + Blending XgBoost (Classification + Regression)
   - Stacking & Blending
+    - Stacking & Blending (Classification) + Stacking & Blending (Regression)
 ### 5. K-Nearest Neighbor (K-NN)
 - **5.1 Regression**
   - Regression (Sklearn) + Regression (Scratch)
