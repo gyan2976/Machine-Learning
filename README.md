@@ -78,8 +78,8 @@
   - Regression (Sklearn) + Regression (Scratch)
 - **6.2 Classification**
   - Classification (Sklearn) + Classification (Scratch) 
-### 7. K-means Clustering
-- **7.1 Clustering**
+### 7. Clustering
+- **7.1 K-means Clustering**
   - K-means Clustering (Sklearn) + K-means Clustering (Scratch)
 - **7.2 Hierarchical Clustering**
   - Hierarchical Clustering (Sklearn)
