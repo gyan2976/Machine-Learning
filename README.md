@@ -70,19 +70,19 @@
     - Stacking & Blending (Classification) + Stacking & Blending (Regression)
 ### 5. K-Nearest Neighbor (K-NN)
 - **5.1 Regression**
-  - Regression (Sklearn) + Regression (Scratch)
+  - Regression (Scikit-Learn) + Regression (Scratch)
 - **5.2 Classification**
-  - Classification (Sklearn) + Classification (Scratch) 
+  - Classification (Scikit-Learn) + Classification (Scratch) 
 ### 6. Support Vector Machine (SVM)
 - **6.1 Regression**
-  - Regression (Sklearn) + Regression (Scratch)
+  - Regression (Scikit-Learn) + Regression (Scratch)
 - **6.2 Classification**
-  - Classification (Sklearn) + Classification (Scratch) 
+  - Classification (Scikit-Learn) + Classification (Scratch) 
 ### 7. Clustering
 - **7.1 K-means Clustering**
-  - K-means Clustering (Sklearn) + K-means Clustering (Scratch)
+  - K-means Clustering (Scikit-Learn) + K-means Clustering (Scratch)
 - **7.2 Hierarchical Clustering**
-  - Hierarchical Clustering (Sklearn)
+  - Hierarchical Clustering (Scikit-Learn)
 ### 8. Naive Bayes
 - **8.1 Classification**
-  - Classification (Sklearn) + Classification (Scratch) 
+  - Classification (Scikit-Learn) + Classification (Scratch) 
